@@ -1,0 +1,27 @@
+.add-to-basket{
+     margin-bottom: 15px;
+    color: #000000;
+    border: 2px solid #000000;
+    padding: 8px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgb(255, 0, 0);
+    margin-top: 15px;
+}
+
+.add-to-basket:hover {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight:400 ;
+    background-color: #db0606d0;
+    border-color: #fff;
+    box-shadow: 
+        0 0 15px rgba(161, 25, 25, 0.6), 
+        0 0 30px rgba(189, 12, 12, 0.74), 
+        0 0 60px rgba(192, 7, 7, 0.733), 
+        0 0 90px rgb(255, 0, 0);
+}
+

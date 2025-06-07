@@ -1,0 +1,32 @@
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation16.MuiDrawer-paper.MuiDrawer-paperAnchorRight.css-y7ab46-MuiPaper-root-MuiDrawer-paper {
+  width:37%;
+}
+
+
+.delete-button{
+    padding: 10px 8px;
+    color: #000000;
+    border: 2px solid #000000;
+    margin-left: 20px;
+    margin-right: 15px;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(138, 133, 133, 0.4);
+}
+
+
+.delete-button:hover {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight:400 ;
+    background-color: #ff0000;
+    border-color: #fff;
+    box-shadow: 
+        0 0 15px rgba(255, 0, 0, 0.6), 
+        0 0 30px rgba(255, 0, 0, 0.699), 
+        0 0 60px rgba(255, 0, 0, 0.856), 
+        0 0 90px rgb(255, 0, 0);
+}
